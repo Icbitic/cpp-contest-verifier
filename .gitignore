@@ -1,0 +1,24 @@
+# Compiled binaries
+*.o
+*.exe
+*.out
+
+# Temporary files
+input.txt
+user.txt
+std.txt
+gen_raw.txt
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build directories
+build/
+dist/
